@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0B4A9766-0A95-ECF4-27D6-B346E34A4621}") = "box_camera_rotate", "Assembly-CSharp.csproj", "{31F68DF1-9F38-4981-5E03-89BFD89DC514}"
+EndProject
+Project("{0B4A9766-0A95-ECF4-27D6-B346E34A4621}") = "box_camera_rotate", "Assembly-CSharp-Editor.csproj", "{17CC81F6-B8BE-D54B-60D7-4780FC964541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31F68DF1-9F38-4981-5E03-89BFD89DC514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F68DF1-9F38-4981-5E03-89BFD89DC514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F68DF1-9F38-4981-5E03-89BFD89DC514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F68DF1-9F38-4981-5E03-89BFD89DC514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CC81F6-B8BE-D54B-60D7-4780FC964541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CC81F6-B8BE-D54B-60D7-4780FC964541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CC81F6-B8BE-D54B-60D7-4780FC964541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CC81F6-B8BE-D54B-60D7-4780FC964541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
